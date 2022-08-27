@@ -1,0 +1,22 @@
+body {
+    background-color: hotpink;
+    color: blue;
+}
+
+.heading {
+    width: 80%;
+    font-size: 25px;
+}
+
+.name_of_objects , #result_object_name , #result_object_accuracy {
+    color: slategray;
+    background-color:whitesmoke;
+
+}
+
+#camera {
+    border: 3px dashed seashell;
+    width: 350px;
+    height: 300px;
+}
+
